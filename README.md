@@ -1,4 +1,4 @@
-## **README.md: Patinhas de Algodão - Seu Guia Felino Online**
+## **README.md: Patinhas de Algodão - Seu Guia Felino Online - Imersão Dev com Google Gemini**
 
 ### **Sobre o Projeto**
 
